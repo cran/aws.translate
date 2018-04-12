@@ -1,0 +1,11 @@
+1c5dbce3166e7bc3bc39a6fe42eab295 *DESCRIPTION
+21b75a123558999dc0cc35ad906db394 *NAMESPACE
+a71398f17c453af5fcf780fdee4c6e43 *NEWS.md
+645fdc5a38953e87c5dc1527cbaa8beb *R/aws.translate-package.R
+9a2da55e43994d60fe88ee2f5af9806d *R/translate.R
+567c73f7b4044ee8c6a8aa973cebecb7 *R/translateHTTP.R
+e882ff0e12294b989400e7dc51097607 *README.md
+79985335eda4c4d0f6a85e4c6171d1b1 *inst/CITATION
+31fec5545ef25db5aeea4f0b6abda9f7 *man/aws.translate-package.Rd
+11af166917a07c9312e85defc443f14f *man/translate.Rd
+6509f32cc4d520136c114a47c3cd345e *man/translateHTTP.Rd
